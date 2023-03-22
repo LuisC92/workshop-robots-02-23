@@ -1,0 +1,20 @@
+body {
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/webb.png");
+  }
+  
+  .container-fluid {
+    text-align: center;
+  }
+  
+  .robot-avatars {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+  }
+
+  .card{
+    height: 100%;
+    border: 1px solid grey;
+    border-radius: 10px;
+  }
+  
